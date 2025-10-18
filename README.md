@@ -1,11 +1,6 @@
 <h1 align="center">Hi! 👋 I am Yonatan Vigilio</h1>
-<h3 align="center">🚀 Senior Ingeniero de Software I.A, apasionado/a por la tecnología y la innovación con mas de  <img src="https://img.shields.io/badge/2019--${new Date().getFullYear()}-${new Date().getFullYear() - 2019}+_años-blue" alt="Años de experiencia" /> años de experiencia</h3>
-<script>
-// Cálculo dinámico de años de experiencia
-const inicioExperiencia = 2019;
-const aniosActual = new Date().getFullYear();
-const aniosExperiencia = aniosActual - inicioExperiencia;
-document.getElementById('experiencia').textContent = aniosExperiencia;
+<h3 align="center">🚀 Senior Ingeniero de Software I.A, apasionado/a por la tecnología y la innovación con mas de 6 años de experiencia
+
 </script>
 <p align="center">
   <a href="[Tu LinkedIn]">
@@ -117,4 +112,3 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 -   💼 **LinkedIn:** [Tu perfil de LinkedIn]
 -   🌐 **Portfolio:** [Tu sitio web personal]
 -   🐦 **Twitter:** [@tu-usuario]
-
