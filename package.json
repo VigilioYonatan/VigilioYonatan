@@ -4,7 +4,8 @@
     "description": "Open-source contributor and Senior developer.",
     "main": "index.js",
     "scripts": {
-        "start": "node src/main.js"
+        "start": "node src/main.js",
+        "build": "tsc"
     },
     "keywords": [],
     "author": "",
@@ -12,5 +13,10 @@
     "dependencies": {
         "dotenv": "^17.2.3",
         "express": "^5.1.0"
+    },
+    "devDependencies": {
+        "@types/express": "5.0.0",
+        "@types/node": "20.11.17",
+        "typescript": "^5.8.3"
     }
 }
