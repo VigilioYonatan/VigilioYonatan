@@ -1,0 +1,16 @@
+# .github/workflows/update-readme.yml
+name: Update Experience Badge
+on:
+    schedule:
+        - cron: "0 0 1 1 *" # Ejecutar cada 1 de Enero
+    workflow_dispatch:
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Update experience year
+              run: |
+                  EXPERIENCE=$(( $(date +%Y) - 2019 ))
+                  sed -i "s/[0-9]\+ años de experiencia/$EXPERIENCE años de experiencia/g" README.md

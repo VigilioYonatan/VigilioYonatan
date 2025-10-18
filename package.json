@@ -1,0 +1,16 @@
+{
+    "name": "purpshell",
+    "version": "1.0.0",
+    "description": "Open-source contributor and Senior developer.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^17.2.3",
+        "express": "^5.1.0"
+    }
+}
