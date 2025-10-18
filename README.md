@@ -25,15 +25,17 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 
 ### 💻 Lenguajes de Programación
 
-<p style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/javascript-original.svg" title="TypeScript" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/typescript-original.svg" title="TypeScript" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/php-original.svg" title="TypeScript" width="40" height="40"/>
 
-<p>
+<div>
 
 ### 🚀 Frontend Technologies
+
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/css3-original.svg" title="css3" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/sass-original.svg" title="sass" width="40" height="40"/>
@@ -44,7 +46,11 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 <img src="https://vigilio-yonatan.vercel.app/images/react-native.png" title="react"  style="object-fit: cover" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/vuejs-original.svg" title="react" width="40" height="40"/>
 
+<div>
+
 ### 🗄️ Backend Technologies
+
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/nestjs-original.svg" title="NestJS" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/vigilioexpress.png" title="Vigilio Express" width="40" height="40"/>
@@ -57,7 +63,11 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 <img src="https://vigilio-yonatan.vercel.app/images/mongodb-original.svg" title="MongoDB" width="40" height="40" />
 <img src="https://vigilio-yonatan.vercel.app/images/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 
+</div>
+
 ### ☁️ Cloud y DevOps
+
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg"  height="40" width="40" title="Docker"/>
 <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
@@ -71,7 +81,11 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="rabbit" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
 
+</div>
+
 ## 🤖 Automatización Inteligencia Artificial
+
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
@@ -81,30 +95,26 @@ document.getElementById('experiencia').textContent = aniosExperiencia;
 <img src="https://vigilio-yonatan.vercel.app/images/v0.svg" title="v0" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/cursor.webp" title="v0" style="object-fit: contain" width="40" height="40"/>
 
+</div>
+
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigilio&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigilio&theme=radical" />
-
-![snake gif](https://github.com/VigilioYonatan/VigilioYonatan/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VigilioYonatan/VigilioYonatan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VigilioYonatan/VigilioYonatan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VigilioYonatan/VigilioYonatan/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 📫 ¿Cómo contactarme?
 
--   📧 **Email:** [tu-email@dominio.com]
+-   📧 **Email:** yonatanvigiliolavado09@gmail.com
 -   💼 **LinkedIn:** [Tu perfil de LinkedIn]
 -   🌐 **Portfolio:** [Tu sitio web personal]
 -   🐦 **Twitter:** [@tu-usuario]
 
----
-
-## 💡 Frase Motivacional
-
-> "El único modo de hacer un gran trabajo es amar lo que haces" - Steve Jobs
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&color=blue&style=flat" />
-</p>
