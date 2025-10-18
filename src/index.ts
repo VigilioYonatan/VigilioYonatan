@@ -9,7 +9,7 @@ const app = express();
 app.use(express.static(path.resolve(__dirname, "../public")));
 
 app.use((_, res) => {
-    res.redirect("https://github.com/VigilioYonatan?tab=repositories");
+    res.redirect("https://github.com/VigilioYonatan");
 });
 app.get("/hello-world", (_, res) => {
     res.render("hello-world 😎");
