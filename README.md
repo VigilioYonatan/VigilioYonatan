@@ -93,7 +93,6 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
   <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="ECS" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="ECS" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/aws-s3.png" title="S3" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/aws-lambda.png" title="Lambda" width="40" height="40"/>
