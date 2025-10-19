@@ -36,7 +36,7 @@
   <img src="https://vigilio-yonatan.vercel.app/images/vitejs-original.svg" title="tailwindcss++" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/preact.png" title="preact" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/react-original.svg" title="react" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/react-native.png" title="reactnative"  style="object-fit: cover" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/react-native.png" title="reactnative"   width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/vuejs-original.svg" title="vuejs-original" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/jest.avif" title="jest" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/react-testing-library.png" title="react-testing-library" width="40" height="40"/>
@@ -75,6 +75,14 @@
 <img src="https://vigilio-yonatan.vercel.app/images/nats.png" style="object-: contain" title="nats" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="rabbit" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
+
+<img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="ecs" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="ecs" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-s3.png" title="s3" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-lambda.png" title="lambda" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-rds.png" title="lambda" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="lambda" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/aws-eks.png" title="lambda" width="40" height="40"/>
 
 </div>
 
