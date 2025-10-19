@@ -1,5 +1,15 @@
-<h1 align="center">Hi! 👋 I am Yonatan Vigilio</h1>
-<h3 align="center">🚀 Senior Ingeniero de Software I.A, apasionado/a por la tecnología y la innovación con mas de 6 años de experiencia. </h3>
+<h1 align="center">👋 Hi! I'm <strong>Yonatan Vigilio</strong></h1>
+
+<h3 align="center">
+🚀 Ingeniero de Software e Inteligencia Artificial Senior<br>
+Apasionado por la tecnología y la innovación, con más de 6 años de experiencia.
+</h3>
+
+<p align="center">
+💡 Enfocado en crear soluciones <strong>escalables, seguras e innovadoras</strong>, 
+priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el 
+<strong>ahorro de recursos</strong>.
+</p>
 
 <br>
 
@@ -7,12 +17,13 @@
   <a href="https://www.linkedin.com/in/vigilio-yonatan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yonatanvigiliolavado09@gmail.com">
+  <a href="https://x.com/Yonatanvigiliox" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:yonatanvigiliolavado09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vigilio-yonatan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
@@ -62,28 +73,31 @@
 
 ### ☁️ Cloud y DevOps
 
-<div style="display: flex; justify-content: center; align-items: center;">
-
-<img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg"  height="40" width="40" title="Docker"/>
-<img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/podman.png"  height="40" width="40" title="podman"/>
-<img src="https://vigilio-yonatan.vercel.app/images/dokploy.png"  title="dokploy" width="40" height="40" />
-<img src="https://vigilio-yonatan.vercel.app/images/githubaction.png"  title="githubaction" width="37" height="37" />
-<img src="https://vigilio-yonatan.vercel.app/images/apache-original.svg" title="Apache " width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/nginx-original.svg" title="Redis" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/vercel.png" style="object-fit: contain" title="vercel" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/nats.png" style="object-: contain" title="nats" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="rabbit" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
-
-<img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="ecs" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="ecs" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-s3.png" title="s3" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-lambda.png" title="lambda" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-rds.png" title="lambda" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="lambda" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/aws-eks.png" title="lambda" width="40" height="40"/>
-
+<div style="
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 10px;
+  justify-items: center;
+  align-items: center;
+  padding: 10px;
+">
+  <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/podman.png" height="40" width="40" title="Podman"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/dokploy.png" title="Dokploy" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/githubaction.png" title="GitHub Actions" width="37" height="37"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/apache-original.svg" title="Apache" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/nginx-original.svg" title="Nginx" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/vercel.png" style="object-fit: contain" title="Vercel" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/nats.png" style="object-fit: contain" title="NATS" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="ECS" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws-s3.png" title="S3" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws-lambda.png" title="Lambda" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws-rds.png" title="RDS" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws-eks.png" title="EKS" width="40" height="40"/>
 </div>
 
 ## 🤖 Automatización Inteligencia Artificial
