@@ -107,6 +107,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
 
 <img src="https://vigilio-yonatan.vercel.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/hugginface.png" title="hugginface" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/whatsappwebjs.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/openai.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/deepseek.png" title="deepseek" style="object-fit: contain" width="40" height="40"/>
