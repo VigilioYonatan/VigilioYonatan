@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm <strong>Yonatan Vigilio</strong></h1>
 
 <h3 align="center">
-🚀 Ingeniero de Software e Inteligencia Artificial Senior<br>
+🚀 Ingeniero de Software e Inteligencia Artificial<br>
 Apasionado por la tecnología y la innovación, con más de 6 años de experiencia.
 </h3>
 
