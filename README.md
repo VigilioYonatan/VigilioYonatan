@@ -52,6 +52,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
   <img src="https://vigilio-yonatan.vercel.app/images/jest.avif" title="jest" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/react-testing-library.png" title="react-testing-library" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/storybook.png" title="storybook" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/i18n.png" title="i18n" width="40" height="40"/>
 <div>
 
 ### 🗄️ Backend Technologies
@@ -68,6 +69,8 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
 <img src="https://vigilio-yonatan.vercel.app/images/mysql-original.svg" title="MySQL" width="40" height="40" />
 <img src="https://vigilio-yonatan.vercel.app/images/mongodb-original.svg" title="MongoDB" width="40" height="40" />
 <img src="https://vigilio-yonatan.vercel.app/images/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/playwright.png" title="playwright" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/puppeteer.png" title="puppeteer" width="40" height="40"/>
 
 </div>
 
