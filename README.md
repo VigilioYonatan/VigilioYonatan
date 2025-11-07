@@ -7,8 +7,8 @@ Apasionado por la tecnología y la innovación, con más de 5 años de experienc
 
 <p align="center">
 💡 Enfocado en crear soluciones <strong>escalables, seguras e innovadoras</strong>, 
-priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el 
-<strong>ahorro de recursos</strong>.
+priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el 
+<strong>ahorro de recursos</strong> y la calidad en software.
 </p>
 
 <br>
