@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 Ingeniero de Software e Inteligencia Artificial<br>
-Apasionado por la tecnología y la innovación, con más de 6 años de experiencia.
+Apasionado por la tecnología y la innovación, con más de 5 años de experiencia.
 </h3>
 
 <p align="center">
