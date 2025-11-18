@@ -49,6 +49,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
   <img src="https://vigilio-yonatan.vercel.app/images/react-original.svg" title="react" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/react-native.png" title="reactnative"   width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/vuejs-original.svg" title="vuejs-original" width="40" height="40"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/angular.png" title="vuejs-original" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/jest.avif" title="jest" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/react-testing-library.png" title="react-testing-library" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/storybook.png" title="storybook" width="40" height="40"/>
@@ -93,7 +94,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong> y el
   <img src="https://vigilio-yonatan.vercel.app/images/nginx-original.svg" title="Nginx" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/vercel.png" style="object-fit: contain" title="Vercel" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/nats.png" style="object-fit: contain" title="NATS" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/>
+  <!-- <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/> -->
   <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/aws-ecs.png" title="ECS" width="40" height="40"/>
