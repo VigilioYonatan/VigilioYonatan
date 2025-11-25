@@ -86,6 +86,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
   padding: 10px;
 ">
   <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="aws" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/podman.png" height="40" width="40" title="Podman"/>
   <img src="https://vigilio-yonatan.vercel.app/images/dokploy.png" title="Dokploy" width="40" height="40"/>
@@ -97,7 +98,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
   <!-- <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/> -->
   <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="aws" width="40" height="40"/>
+  
   
 </div>
 
