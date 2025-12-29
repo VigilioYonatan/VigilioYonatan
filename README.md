@@ -1,14 +1,12 @@
 <h1 align="center">👋 Hi! I'm <strong>Yonatan Vigilio</strong></h1>
 
 <h3 align="center">
-🚀 Ingeniero de Software e Inteligencia Artificial<br>
-Apasionado por la tecnología y la innovación, con más de 5 años de experiencia.
+🚀 Software Engineer & AI Specialist<br>
+Passionate about technology and innovation, with over 5 years of experience.
 </h3>
 
 <p align="center">
-💡 Enfocado en crear soluciones <strong>escalables, seguras e innovadoras</strong>, 
-priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el 
-<strong>ahorro de recursos</strong> y la calidad en software.
+💡 Focused on creating <strong>scalable, secure, and innovative</strong> solutions, prioritizing <strong>speed</strong>, <strong>quality</strong>, and <strong>resource optimization</strong>.
 </p>
 
 <br>
@@ -28,9 +26,9 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
 
 ---
 
-## 🛠️ Tecnologías y Herramientas Principales
+## 🛠️ Main Technologies & Tools
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://vigilio-yonatan.vercel.app/images/javascript-original.svg" title="TypeScript" width="40" height="40"/>
@@ -64,6 +62,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
 <img src="https://vigilio-yonatan.vercel.app/images/vigilioexpress.png" title="Vigilio Express" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/nextjs-original.svg" title="NextJS" width="44" height="44"/>
 <img src="https://vigilio-yonatan.vercel.app/images/laravel-original.svg" title="laravel" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/composer.png" title="composer" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/bun-original.svg" title="bun" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" />
@@ -75,7 +74,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
 
 </div>
 
-### ☁️ Cloud y DevOps
+### ☁️ Cloud & DevOps
 
 <div style="
   display: grid;
@@ -85,6 +84,7 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
   align-items: center;
   padding: 10px;
 ">
+  <img src="https://vigilio-yonatan.vercel.app/images/linux.png" height="40" width="40" title="Linux"/>
   <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
   <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/podman.png" height="40" width="40" title="Podman"/>
@@ -101,11 +101,13 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
   
 </div>
 
-## 🤖 Automatización Inteligencia Artificial
+## 🤖 AI & Automation
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/ollama.png" title="ollama" style="object-fit: contain" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/langchain.png" title="langchain" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/hugginface.png" title="hugginface" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/whatsappwebjs.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
@@ -118,9 +120,24 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Services & Capabilities
 
-<a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
+I transform ideas into high-impact software solutions, always guaranteeing **best practices**, **scalable architecture**, and **optimized code**.
+
+### What can I build?
+
+-   🛒 **E-commerce:** Modern, fast, and secure online stores.
+-   🏢 **SaaS:** Scalable and profitable web platforms.
+-   🧾 **Invoicing Systems:** Tailored administrative software.
+-   🎓 **Academic Campuses:** Virtual classrooms & LMS.
+-   👥 **Social Networks:** Online communities & platforms.
+-   ✨ **And much more...**
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/VigilioYonatan?tab=repositories&q=&type=&language=&sort=stargazers">
   <picture>
     <img alt="VigilioYonatan Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=VigilioYonatan&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
   </picture>
@@ -138,8 +155,9 @@ priorizando la <strong>rapidez</strong>, la <strong>calidad</strong>, el
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to reach me?
 
+-   📞 **WhatsApp:** [+51 959 884 398](https://wa.me/51959884398)
 -   📧 **Email:** yonatanvigiliolavado09@gmail.com
 -   💼 **LinkedIn:** [in/vigilio-yonatan](https://www.linkedin.com/in/vigilio-yonatan/)
 -   🐦 **x:** [x/vigilio-yonatan](https://x.com/vigilio_yonatan),
