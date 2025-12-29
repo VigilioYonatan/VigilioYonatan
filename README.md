@@ -107,6 +107,7 @@ Passionate about technology and innovation, with over 5 years of experience.
 <div style="display: flex; justify-content: center; align-items: center;">
 
 <img src="https://vigilio-yonatan.vercel.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
+<img src="https://vigilio-yonatan.vercel.app/images/mcp.png" title="mcp" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/ollama.png" title="ollama" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/langchain.png" title="langchain" style="object-fit: contain" width="40" height="40"/>
 <img src="https://vigilio-yonatan.vercel.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
