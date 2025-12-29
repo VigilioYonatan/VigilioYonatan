@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm <strong>Yonatan Vigilio</strong></h1>
+<h1 align="center">👋 Hola! Soy <strong>Yonatan Vigilio</strong></h1>
 
 <h3 align="center">
 🚀 Software Engineer & AI Specialist<br>
@@ -86,6 +86,7 @@ Passionate about technology and innovation, with over 5 years of experience.
 ">
   <img src="https://vigilio-yonatan.vercel.app/images/linux.png" height="40" width="40" title="Linux"/>
   <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
+  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="aws" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/podman.png" height="40" width="40" title="Podman"/>
   <img src="https://vigilio-yonatan.vercel.app/images/dokploy.png" title="Dokploy" width="40" height="40"/>
@@ -97,7 +98,7 @@ Passionate about technology and innovation, with over 5 years of experience.
   <!-- <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/> -->
   <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
   <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="aws" width="40" height="40"/>
+  
   
 </div>
 
