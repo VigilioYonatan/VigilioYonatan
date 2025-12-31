@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola! Soy <strong>Yonatan Vigilio</strong></h1>
+<h1 align="center">👋 Hi! I'm <strong>Yonatan Vigilio</strong></h1>
 
 <h3 align="center">
 🚀 Software Engineer & AI Specialist<br>
