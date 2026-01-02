@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 Software Engineer & AI Specialist<br>
-Passionate about technology and innovation, with over 5 years of experience.
+Passionate about technology and innovation, with over 6 years of experience.
 </h3>
 
 <p align="center">
