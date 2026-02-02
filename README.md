@@ -31,46 +31,48 @@ Passionate about technology and innovation, with over 6 years of experience.
 ### 💻 Programming Languages
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://vigilio-yonatan.vercel.app/images/javascript-original.svg" title="TypeScript" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/typescript-original.svg" title="TypeScript" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/php-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/javascript-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/php-original.svg" title="TypeScript" width="40" height="40"/>
 <div>
 
 ### 🚀 Frontend Technologies
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://vigilio-yonatan.vercel.app/images/css3-original.svg" title="css3" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/sass-original.svg" title="sass" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/tailwindcss-original.svg" title="tailwindcss++" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/vitejs-original.svg" title="tailwindcss++" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/preact.png" title="preact" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/react-original.svg" title="react" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/react-native.png" title="reactnative"   width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/vuejs-original.svg" title="vuejs-original" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/angular.png" title="vuejs-original" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/jest.avif" title="jest" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/react-testing-library.png" title="react-testing-library" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/storybook.png" title="storybook" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/i18n.png" title="i18n" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/css3-original.svg" title="css3" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/sass-original.svg" title="sass" width="40" height="40"/>
+  <img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/13914686-a183-4d20-a190-c46a8fcdf26c.100.webp" title="figmal" width="40" height="40"/>
+  <img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/12c6e900-dd8e-4b0c-b221-49c553e0fc83.100.webp" title="stitch" width="40" height="40"/>
+  <img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/0aec1a97-d8dc-4cd7-9ffd-56f7c528bd00.100.webp" title="npm" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/vitejs-original.svg" title="tailwindcss++" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/preact.png" title="preact" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/react-original.svg" title="react" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/react-native.png" title="reactnative"   width="40" height="40"/>
+  <img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/83c6dae6-05df-43d9-94d8-1262adcd0217.100.webp" title="expo"   width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/vuejs-original.svg" title="vuejs-original" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/jest.avif" title="jest" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/react-testing-library.png" title="react-testing-library" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/storybook.png" title="storybook" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/i18n.png" title="i18n" width="40" height="40"/>
 <div>
 
 ### 🗄️ Backend Technologies
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<img src="https://vigilio-yonatan.vercel.app/images/nestjs-original.svg" title="NestJS" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/vigilioexpress.png" title="Vigilio Express" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/nextjs-original.svg" title="NextJS" width="44" height="44"/>
-<img src="https://vigilio-yonatan.vercel.app/images/laravel-original.svg" title="laravel" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/composer.png" title="composer" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/bun-original.svg" title="bun" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" />
-<img src="https://vigilio-yonatan.vercel.app/images/mysql-original.svg" title="MySQL" width="40" height="40" />
-<img src="https://vigilio-yonatan.vercel.app/images/mongodb-original.svg" title="MongoDB" width="40" height="40" />
-<img src="https://vigilio-yonatan.vercel.app/images/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/playwright.png" title="playwright" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/puppeteer.png" title="puppeteer" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/nestjs-original.svg" title="NestJS" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/vigilioexpress.png" title="Vigilio Express" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/nextjs-original.svg" title="NextJS" width="44" height="44"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/laravel-original.svg" title="laravel" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/composer.png" title="composer" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/bun-original.svg" title="bun" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" />
+<img src="https://yonatan-vigilio.koyeb.app/images/mysql-original.svg" title="MySQL" width="40" height="40" />
+<img src="https://yonatan-vigilio.koyeb.app/images/mongodb-original.svg" title="MongoDB" width="40" height="40" />
+<img src="https://yonatan-vigilio.koyeb.app/images/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/playwright.png" title="playwright" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/puppeteer.png" title="puppeteer" width="40" height="40"/>
 
 </div>
 
@@ -84,20 +86,20 @@ Passionate about technology and innovation, with over 6 years of experience.
   align-items: center;
   padding: 10px;
 ">
-  <img src="https://vigilio-yonatan.vercel.app/images/linux.png" height="40" width="40" title="Linux"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/aws.png" title="aws" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/podman.png" height="40" width="40" title="Podman"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/dokploy.png" title="Dokploy" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/githubaction.png" title="GitHub Actions" width="37" height="37"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/apache-original.svg" title="Apache" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/nginx-original.svg" title="Nginx" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/vercel.png" style="object-fit: contain" title="Vercel" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/nats.png" style="object-fit: contain" title="NATS" width="40" height="40"/>
-  <!-- <img src="https://vigilio-yonatan.vercel.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/> -->
-  <img src="https://vigilio-yonatan.vercel.app/images/redis.png" title="Redis" width="40" height="40"/>
-  <img src="https://vigilio-yonatan.vercel.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/linux.png" height="40" width="40" title="Linux"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/docker-plain.svg" height="40" width="40" title="Docker"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/aws.png" title="aws" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/podman.png" height="40" width="40" title="Podman"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/dokploy.png" title="Dokploy" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/githubaction.png" title="GitHub Actions" width="37" height="37"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/apache-original.svg" title="Apache" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/nginx-original.svg" title="Nginx" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/vercel.png" style="object-fit: contain" title="Vercel" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/nats.png" style="object-fit: contain" title="NATS" width="40" height="40"/>
+  <!-- <img src="https://yonatan-vigilio.koyeb.app/images/rabbit.png" title="RabbitMQ" width="40" height="40"/> -->
+  <img src="https://yonatan-vigilio.koyeb.app/images/redis.png" title="Redis" width="40" height="40"/>
+  <img src="https://yonatan-vigilio.koyeb.app/images/terraform.webp" title="Terraform" width="40" height="40"/>
   
   
 </div>
@@ -106,17 +108,19 @@ Passionate about technology and innovation, with over 6 years of experience.
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<img src="https://vigilio-yonatan.vercel.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/mcp.png" title="mcp" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/ollama.png" title="ollama" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/langchain.png" title="langchain" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/hugginface.png" title="hugginface" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/whatsappwebjs.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/openai.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/deepseek.png" title="deepseek" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/v0.svg" title="v0" style="object-fit: contain" width="40" height="40"/>
-<img src="https://vigilio-yonatan.vercel.app/images/cursor.webp" title="v0" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/groq.png" title="groq" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/mcp.png" title="mcp" style="object-fit: contain" width="40" height="40"/>
+<img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/2107f93a-30a0-47e7-afea-6321be614d82.100.webp" title="antigravity" style="object-fit: contain" width="40" height="40"/>
+<img src="https://pub-402cda15bd0649d8b196048b9e766a30.r2.dev/technologies/icons/1e1bcaa4-a89d-4f75-ab5e-7b90013a1b32.100.webp" title="claude" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/ollama.png" title="ollama" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/langchain.png" title="langchain" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/n8n.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/hugginface.png" title="hugginface" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/whatsappwebjs.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/openai.png" title="n8n" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/deepseek.png" title="deepseek" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/v0.svg" title="v0" style="object-fit: contain" width="40" height="40"/>
+<img src="https://yonatan-vigilio.koyeb.app/images/cursor.webp" title="v0" style="object-fit: contain" width="40" height="40"/>
 
 </div>
 
@@ -128,12 +132,12 @@ I transform ideas into high-impact software solutions, always guaranteeing **bes
 
 ### What can I build?
 
--   🛒 **E-commerce:** Modern, fast, and secure online stores.
--   🏢 **SaaS:** Scalable and profitable web platforms.
--   🧾 **Invoicing Systems:** Tailored administrative software.
--   🎓 **Academic Campuses:** Virtual classrooms & LMS.
--   👥 **Social Networks:** Online communities & platforms.
--   ✨ **And much more...**
+- 🛒 **E-commerce:** Modern, fast, and secure online stores.
+- 🏢 **SaaS:** Scalable and profitable web platforms.
+- 🧾 **Invoicing Systems:** Tailored administrative software.
+- 🎓 **Academic Campuses:** Virtual classrooms & LMS.
+- 👥 **Social Networks:** Online communities & platforms.
+- ✨ **And much more...**
 
 ---
 
@@ -159,7 +163,7 @@ I transform ideas into high-impact software solutions, always guaranteeing **bes
 
 ## 📫 How to reach me?
 
--   📞 **WhatsApp:** [+51 959 884 398](https://wa.me/51959884398)
--   📧 **Email:** yonatanvigiliolavado09@gmail.com
--   💼 **LinkedIn:** [in/vigilio-yonatan](https://www.linkedin.com/in/vigilio-yonatan/)
--   🐦 **x:** [x/vigilio-yonatan](https://x.com/vigilio_yonatan),
+- 📞 **WhatsApp:** [+51 959 884 398](https://wa.me/51959884398)
+- 📧 **Email:** yonatanvigiliolavado09@gmail.com
+- 💼 **LinkedIn:** [in/vigilio-yonatan](https://www.linkedin.com/in/vigilio-yonatan/)
+- 🐦 **x:** [x/vigilio-yonatan](https://x.com/vigilio_yonatan),
