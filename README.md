@@ -6,7 +6,7 @@ Passionate about technology and innovation, with over 6 years of experience.
 </h3>
 
 <p align="center">
-💡 Focused on creating <strong>scalable, secure, and innovative</strong> solutions, prioritizing <strong>speed</strong>, <strong>quality</strong>, and <strong>resource optimization</strong>.
+💡 Focused on creating <strong>scalable, secure, and innovative</strong> solutions, prioritizing <strong>speed</strong>, <strong>quality</strong>, and <strong>resource optimization</strong> to web apps development.
 </p>
 
 <br>
